@@ -2,11 +2,12 @@
 # DC Ridr
 
 * DC Ridr is an app built for locating bike trail routes and resources in the greater DC area.
+* *DC Ridr is an application built using Ruby on Rails for the backend and JavaScript for the frontend.*
+
+# Preview
 
 ![DC Ridr](/app/assets/demo/demo-home.png)
 
-
-*DC Ridr is an application built using Ruby on Rails for the backend and JavaScript for the frontend.*
 
 
 # Summary 
