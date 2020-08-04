@@ -1,7 +1,7 @@
 
 # DC Ridr
 
-![DC Ridr](/src/assets/demo/demo-home.png)
+![DC Ridr](/app/assets/demo/demo-home.png)
 
 
 *DC Ridr is an application built using Ruby on Rails for the backend and JavaScript for the frontend.*
@@ -62,27 +62,27 @@ This application should be used along with the frontend repo which can be found 
 
 * Home Page
 <p align="center">
-  <img src="/src/assets/demo/demo-home.png" width="650" title="home page">
+  <img src="/app/assets/demo/demo-home.png" width="650" title="home page">
 </p>
 
 * Bike Route/Trail Page 
  <p align="center">
-  <img src="/src/assets/demo/demo-trail.png" width="650" title="home page">
+  <img src="/app/assets/demo/demo-trail.png" width="650" title="home page">
 </p>
 
 * Explore Page
  <p align="center">
-  <img src="/src/assets/demo/demo-explore.png" width="650" title="home page">
+  <img src="/app/assets/demo/demo-explore.png" width="650" title="home page">
 </p>
 
 * Dashboard
  <p align="center">
-  <img src="/src/assets/demo/demo-dashboard.png" width="650" title="home page">
+  <img src="/app/assets/demo/demo-dashboard.png" width="650" title="home page">
 </p>
 
 * Bike Map
  <p align="center">
-  <img src="/src/assets/demo/demo-bikemap.png" width="650" title="home page">
+  <img src="/app/assets/demo/demo-bikemap.png" width="650" title="home page">
 </p>
 
 
